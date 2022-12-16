@@ -23,19 +23,34 @@ Create a back end for e-commerce website that use the latest technologies
 [*Demo Video*](https://app.castify.com/view/cd99f6e6-898e-4b82-9f70-98ebb2ff657a)
 
 
-*Start Page:*
+*GET ALL:*
 
-![Start Page](./images/Start_Page.jpg)
-
-
-*End Page:*
-
-![End Page](./images/End_Page.jpg)
+![GET ALL](/Develop/images/GET_ALL.jpg)
 
 
-*Operating:*
+*POST SUCCESS:*
 
-![Operating](./images/Operating.jpg)
+![POST SUCCESS](/Develop/images/POST.jpg)
+
+*GET ALL AFTER POST:*
+
+![GET ALL AFTER POST](/Develop/images/GET_ALL_AFTER_POST.jpg)
+
+*UPDATE:*
+
+![UPDATE](/Develop/images/UPDATE.jpg)
+
+*GET ONE AFTER UPDATE:*
+
+![GET ONE AFTER UPDATE](/Develop/images/GET_ONE.jpg)
+
+*DELETE:*
+
+![DELETE](/Develop/images/DELETE.jpg)
+
+*GET ONE AFTER DELETE:*
+
+![GET ONE AFTER DELETE](/Develop/images/DELETE_AFTER.jpg)
 
 ## Installation
 To install the necessary dependencies, run the following commands:
