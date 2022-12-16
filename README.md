@@ -62,7 +62,7 @@ npm i
 ## Usage
 After clone the repository to local machine and install the necessary dependencies, change the password to your SQL password and then run below command in terminal to start the application:
 ```
-node index
+npm start
 ```
 
 ## License
